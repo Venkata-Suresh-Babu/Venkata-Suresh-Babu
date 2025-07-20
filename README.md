@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venkata-Suresh-Babu
 - 👀 I’m interested in Data Analytics & Python Development
-- 💞️ I’m looking for an opportunity for Data abakyst role
+- 💞️ I’m looking for an opportunity for Data analyst role
 - 📫 sureshbabu.pesupati2000@gmail.com
 
 <!---
